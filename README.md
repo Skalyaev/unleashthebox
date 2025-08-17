@@ -16,8 +16,4 @@
 
 ## Objectif
 
-- [x] Rang `Pro-Hacker`
-
-## Liens
-
-- [Profil](https://app.hackthebox.com/profile/1772537)
+- [x] `Pro-Hacker` [profil](https://app.hackthebox.com/profile/1772537)
